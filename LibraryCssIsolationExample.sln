@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryCssIsolationExample", "LibraryCssIsolationExample\LibraryCssIsolationExample.csproj", "{D82B35F0-D2B8-4F92-A67C-56305AFEF88A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeClassLibrary", "SomeClassLibrary\SomeClassLibrary.csproj", "{C6E89002-96CD-49D1-BECD-0C30D5DE53AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D82B35F0-D2B8-4F92-A67C-56305AFEF88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D82B35F0-D2B8-4F92-A67C-56305AFEF88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D82B35F0-D2B8-4F92-A67C-56305AFEF88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E89002-96CD-49D1-BECD-0C30D5DE53AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E89002-96CD-49D1-BECD-0C30D5DE53AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E89002-96CD-49D1-BECD-0C30D5DE53AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E89002-96CD-49D1-BECD-0C30D5DE53AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
